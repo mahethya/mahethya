@@ -25,7 +25,7 @@
 - 🏷️ **Name:** Mahethya Vardhan  
 - 👨‍💻 **Role:** Python Full Stack Developer  
 - 🏠 **Location:** India  
-- 🧭 **Quick note:** `sai ram`  
+ 
 
 ---
 
@@ -62,7 +62,7 @@ I enjoy improving performance, code quality, and creating delightful UX.
 ---
 
 ## ✨ Featured Projects
-*(Replace with real links when ready)*
+
 
 ### 📦 Inventory Manager
 - **Stack:** Django, REST, MySQL  
@@ -93,7 +93,7 @@ I enjoy improving performance, code quality, and creating delightful UX.
 - YouTube: [YouTube](https://www.youtube.com/)  
 - LinkedIn: [mahethya_vardhan](https://linkedin.com/in/mahethya_vardhan)  
 - Twitter: [@mahethya](https://twitter.com/mahethya)  
-- Email: `your-email@example.com`  
+- Email: `mahethya2003@gmail.com`  
 
 ---
 
