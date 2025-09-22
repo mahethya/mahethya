@@ -25,12 +25,13 @@
 - 🏷️ **Name:** Mahethya Vardhan  
 - 👨‍💻 **Role:** Python Full Stack Developer  
 - 🏠 **Location:** India  
-- 🧭 **Quick note:** `sai ram` — (replace with a longer about me if you like)
+- 🧭 **Quick note:** `sai ram`  
 
 ---
 
 ## 🚀 What I build
-I create backend-driven web apps, APIs and automation tools using **Python**, **Django**, and modern frontend tech when needed. I enjoy improving performance, code quality, and creating delightful UX.
+I create backend-driven web apps, APIs and automation tools using **Python**, **Django**, and modern frontend tech when needed.  
+I enjoy improving performance, code quality, and creating delightful UX.
 
 ---
 
@@ -46,12 +47,9 @@ I create backend-driven web apps, APIs and automation tools using **Python**, **
   <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" />
 </p>
 
-> Tip: the icons above are small SVGs — keep or swap as you prefer.
-
 ---
 
 ## 🛠️ Skills (visual)
-Below are simple "progress" badges (static but expressive). Adjust percentages to reflect your skill level.
 
 <p>
   <img src="https://img.shields.io/badge/Python-95%25-green?style=for-the-badge" alt="Python" />
@@ -64,68 +62,42 @@ Below are simple "progress" badges (static but expressive). Adjust percentages t
 ---
 
 ## ✨ Featured Projects
-> Replace `YOUR_REPO_LINK` and descriptions with your actual project links.
+*(Replace with real links when ready)*
 
-### 📦 Project One — Inventory Manager
+### 📦 Inventory Manager
 - **Stack:** Django, REST, MySQL  
 - **What it does:** Inventory tracking with role-based access and REST APIs.  
-- **Demo / Repo:** [View repo](YOUR_REPO_LINK)
+- **Repo:** [View repo](https://github.com/mahethya)
 
-### 🌐 Project Two — Portfolio (this site)
+### 🌐 Portfolio Website
 - **Stack:** HTML, CSS, JS (or React)  
 - **What it does:** Personal portfolio with animations and contact form.  
-- **Live:** [YOUR_PROJECT_LINK] — *Replace with your live link*
+- **Live:** Coming soon  
 
-### 🔎 Project Three — Web Scraper & Analyzer
+### 🔎 Web Scraper & Analyzer
 - **Stack:** Python, BeautifulSoup, Pandas  
-- **What it does:** Periodic scraping + CSV/DB export and analysis.
+- **What it does:** Periodic scraping + CSV/DB export and analysis.  
 
 ---
 
 ## 📊 GitHub Stats & Top Languages
-<!-- GitHub stats cards (they generate dynamic images) -->
-<p align="left">
-  <img alt="Mahethya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
+<p align="left">
+  <img alt="Mahethya's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mahethya&show_icons=true&theme=tokyonight" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahethya&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Contact
-- YouTube: `www.youtube.com` (replace with your channel link)  
+- YouTube: [YouTube](https://www.youtube.com/)  
 - LinkedIn: [mahethya_vardhan](https://linkedin.com/in/mahethya_vardhan)  
 - Twitter: [@mahethya](https://twitter.com/mahethya)  
-- Email: `your-email@example.com` (replace)
-
----
-
-## 🏆 Achievements & Activity (optional)
-- Contributor to open-source projects (list them here).
-- Built deployable apps and automated tools used by X people (replace X).
+- Email: `your-email@example.com`  
 
 ---
 
 ## 👀 Visitors
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen" alt="visitor badge" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=mahethya&color=brightgreen" alt="visitor badge" />
 
----
-
-### ✍️ Customization & Notes
-1. **Typing animation:** `readme-typing-svg.demolab.com` used for the header typing — update the `lines` query in the image URL to change phrases.
-2. **Badges:** Created using `img.shields.io`. Change color or label by editing the URL.
-3. **Stats Cards:** `github-readme-stats` images show up-to-date contributions and language breakdown. Replace `YOUR_GITHUB_USERNAME`.
-4. **No JS allowed:** GitHub README does not allow scripts — animations here use dynamic image services or GIFs which render safely.
-5. **Optional GIF flair:** Add a short GIF under the hero (e.g., a subtle wave or hex background) but keep file sizes small.
-
----
-
-If you want, I can:
-- Replace placeholders with your real repo and live links,
-- Create an attractive hero GIF (1280×360) you can upload to the repo and reference,
-- Or produce an alternate dark/light theme variant.
-
-Want me to automatically swap placeholders for the info you gave earlier (Twitter, LinkedIn, YouTube)? I can paste the README with those filled in now. 😄
