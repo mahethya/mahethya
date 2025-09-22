@@ -2,7 +2,7 @@
 <h3 align="center">A passionate python full stack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Z
 <a href="https://twitter.com/@mahethya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mahethya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahethya_vardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahethya_vardhan" height="30" width="40" /></a>
 <a href="https://fb.com/mahethya annam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahethya annam" height="30" width="40" /></a>
